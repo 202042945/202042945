@@ -2,11 +2,9 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=edyane&data=followers,repositories,stars,commits)](https://github.com/edyane/github-widgetbox)
 
  #### Hello there, welcome to my GitHub.
-- ####Software engineering student at UnB 
-- ####Currently learning: JavaScript, React, UI/UX designer
-- ####Pronouns: She/Her
- <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
- 
+- Software engineering student at Universidade de Brasília
+- I’m currently learning JavaScript, React and UI/UX designer
+- Hobbies: League of Legends, The Sims, TFT and animes 
 
 
  ### Contact: 
