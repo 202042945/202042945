@@ -1,6 +1,9 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=edyane&data=followers,repositories,stars,commits)](https://github.com/edyane/github-widgetbox)
 
+ #### Hello there, i'm a software engineering student. I'm passionae about web development. I'm currently learning UI/UX design
+
+
 
 ### Stacks:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,6 +19,7 @@
   <a href = "mailto:edyanealves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/edyanealves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   
   ---
 
@@ -23,6 +27,7 @@
 <div align="center">
  <img height="140" src="https://c.tenor.com/rg2aP4tIS6cAAAAi/bubududu-panda.gif"/>
 </div>
+<br>
 
 
 
