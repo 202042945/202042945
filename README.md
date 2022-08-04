@@ -2,6 +2,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=edyane&data=followers,repositories,stars,commits)](https://github.com/edyane/github-widgetbox)
 
  #### Hello there, welcome to my GitHub.
+- Web developer enthusiast 
 - Software engineering student at Universidade de Brasília
 - I’m currently learning JavaScript, React and UI/UX designer
 - Hobbies: League of Legends, The Sims, TFT and animes 
