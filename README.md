@@ -2,8 +2,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=edyane&data=followers,repositories,stars,commits)](https://github.com/edyane/github-widgetbox)
 
  #### Hello there, welcome to my GitHub.
- I'm a software engineering student
-
 
 
 ### Stacks:
